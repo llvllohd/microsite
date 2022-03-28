@@ -19,6 +19,10 @@
     "vue-server-renderer": "^2.6.14",
     "webpack-merge": "^4.1.1"
   },
+  "engines": {
+    "node": ">= 10.15.0",
+    "npm": ">= 6.4.0"
+  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
